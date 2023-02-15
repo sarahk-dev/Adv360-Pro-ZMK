@@ -11,6 +11,10 @@
  * This file was generated automatically. You may or may not want to
  * edit it directly.
  */
+ 
+ /*
+  * Added layer for MacOS
+  */
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
