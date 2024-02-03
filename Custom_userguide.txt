@@ -1,0 +1,66 @@
+#### LAYERS ####
+
+Default Layer:
+ * 360 = SHIFT
+ * Page = INSERT
+
+MacOS Layer:
+ * Ctrl = CMD
+ * Alt  = OPT
+ * Win  = CTRL
+
+Function Layer:
+ * 1-12 = fn + top row - Caps = F1, 1 = f2 .. 0 = F11, (5) = F12
+ 
+Numpad layer:
+ * 0 = SPACE
+
+Modifier layer:
+ * BT 1       = Mod + 1
+ * BT 2       = Mod + 2
+ * BT 3       = Mod + 3
+ * BT 4       = Mod + 4
+ * BT 5       = Mod + 5
+ * bootloader = Mod + (1)
+
+Game Layer:
+ * =    = Ctrl
+ * Bspc = Space
+ * Del  = Enter
+
+#### HOW TO ####
+
+Switch layers:
+ * Numpad   - kp TAP   - led white
+ * Function - fn HOLD  - led blue
+ * Settings - Mod HOLD - led green
+ * Mac      - (1) TAP  - led ?
+ * Game     - (2) TAP  - led ?
+
+Connect to device (profiles):
+ * BT 1 - Mod + 1 - Apollo  - led white
+ * BT 2 - Mod + 2 - Mac     - led blue
+ * BT 3 - Mod + 3 - ?       - led red
+ * BT 4 - Mod + 4 - ?       - led green
+ * BT 5 - Mod + 5 - ?       - led off
+
+Bluetooth pairing (profiles):
+ * Clear profile - Mod + Win
+   * fast flash - ready to pair
+   * slow flash - paired device not in range
+   * solid      - paired
+
+Change backlight:
+ * Toggle on/off - Mod + Enter
+ * Increase      - Mod + up
+ * Decrease      - Mod + down
+ * Toggle RGB    - Mod + Space
+ * Change RGB    - Mod + 360
+
+Install firmware:
+ * Left module (must be done first)
+   * Mod + (1) OR push switch
+   * copy left.uf2
+ * Right module
+   * Mod + (3) OR push switch
+   * copy right.uf2
