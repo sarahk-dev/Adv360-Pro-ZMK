@@ -4,10 +4,10 @@ Default Layer:
  * 360 = SHIFT
  * Page = INSERT
 
-MacOS Layer:
- * Ctrl = CMD
- * Alt  = OPT
- * Win  = CTRL
+Windows Layer:
+ * CMD   = Ctrl
+ * OPT   = Alt
+ * CTRL  = Win
 
 Function Layer:
  * 1-12 = fn + top row - Caps = F1, 1 = f2 .. 0 = F11, (5) = F12
@@ -39,8 +39,8 @@ Switch layers:
  * Game     - (2) TAP  - led purple
 
 Connect to device (profiles):
- * BT 1 - Mod + 1 - Apollo  - led white
- * BT 2 - Mod + 2 - Mac     - led blue
+ * BT 1 - Mod + 1 - Mac     - led white
+ * BT 2 - Mod + 2 - Apollo  - led blue
  * BT 3 - Mod + 3 - ?       - led red
  * BT 4 - Mod + 4 - ?       - led green
  * BT 5 - Mod + 5 - ?       - led off
