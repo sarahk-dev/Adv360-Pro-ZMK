@@ -57,6 +57,13 @@ Change backlight:
  * Toggle RGB    - Mod + Space
  * Change RGB    - Mod + 360
 
+ Check battery:
+  * HOLD Mod + HOLD (4)
+    * Green:  > 80%
+    * Yellow: 51-79%
+    * Orange: 21-50%
+    * Red:    <= 20% 
+
 Install firmware:
  * Left module (must be done first)
    * Mod + (1) OR push switch
