@@ -21,7 +21,8 @@ Modifier layer:
  * BT 3       = Mod + 3
  * BT 4       = Mod + 4
  * BT 5       = Mod + 5
- * bootloader = Mod + (1)
+ * bootloader (left)  = Mod + (1)
+ * bootloader (right) = Mod + (3)
 
 Game Layer:
  * =    = Ctrl
@@ -34,8 +35,8 @@ Switch layers:
  * Numpad   - kp TAP   - led white
  * Function - fn HOLD  - led blue
  * Settings - Mod HOLD - led green
- * Mac      - (1) TAP  - led ?
- * Game     - (2) TAP  - led ?
+ * Mac      - (1) TAP  - led red
+ * Game     - (2) TAP  - led purple
 
 Connect to device (profiles):
  * BT 1 - Mod + 1 - Apollo  - led white
@@ -52,8 +53,8 @@ Bluetooth pairing (profiles):
 
 Change backlight:
  * Toggle on/off - Mod + Enter
- * Increase      - Mod + up
- * Decrease      - Mod + down
+ * Increase      - Mod + up (five levels)
+ * Decrease      - Mod + down (five levels)
  * Toggle RGB    - Mod + Space
  * Change RGB    - Mod + 360
 
